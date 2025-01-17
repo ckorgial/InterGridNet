@@ -26,13 +26,14 @@
 
 1. Place raw audio recordings in the databases/database_raw directory.
 2. Split large audio files into smaller segments:
+
 ```bash
    python separete_wav.py
-   python split_files.py
+   python split_files.py ---
 
 4. Normalize and prepare the dataset:
    ```bash
-  python preprocessing.py
+  python preprocessing.py---
 
 ## **Model Training**
 
