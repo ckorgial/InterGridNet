@@ -29,6 +29,7 @@
 ```bash
    python separete_wav.py
    python split_files.py
+
 4. Normalize and prepare the dataset:
    ```bash
   python preprocessing.py
