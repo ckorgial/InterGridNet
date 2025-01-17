@@ -20,7 +20,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/InterGridNet.git
-   cd InterGridNet```
+   cd InterGridNet
 
 ## **Data Preparation**
 
@@ -28,10 +28,10 @@
 2. Split large audio files into smaller segments:
 ```bash
    python separete_wav.py
-   python split_files.py```
+   python split_files.py
 4. Normalize and prepare the dataset:
    ```bash
-  python preprocessing.py```
+  python preprocessing.py
 
 ## **Model Training**
 
