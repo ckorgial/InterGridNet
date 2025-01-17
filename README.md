@@ -6,9 +6,6 @@
 - [Data Preparation](#data-preparation)
 - [Model Training](#model-training)
 - [Model Testing](#model-testing)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## **Introduction**
 
