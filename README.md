@@ -31,11 +31,17 @@
 
 ## **Model Training**
 
+```shell
 python train_model_tuner.py
 
 ## **Model Testing**
 
+```shell
 python test_detectFreq.py
 
 
+# Authors
+Feel free to send us a message for any issue.
+
+***Christos Korgialas (ckorgial@csd.auth.gr)***
 
