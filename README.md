@@ -31,7 +31,7 @@ InterGridNet/ ├── detect_freq_ENF.py # Detect ENF frequencies and prepare 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/InterGridNet.git
-   cd InterGridNet
+   cd InterGridNet```
 
 
 
