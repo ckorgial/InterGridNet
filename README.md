@@ -18,22 +18,22 @@
 ## **Installation**
 
 1. Clone the repository:
-   ```bash
+   ```shell
    git clone https://github.com/yourusername/InterGridNet.git
-   cd InterGridNet
+   cd InterGridNet```
 
 ## **Data Preparation**
 
 1. Place raw audio recordings in the databases/database_raw directory.
 2. Split large audio files into smaller segments:
 
-```bash
+```shell
    python separete_wav.py
-   python split_files.py ---
+   python split_files.py ```
 
 4. Normalize and prepare the dataset:
-   ```bash
-  python preprocessing.py'''
+   ```shell
+  python preprocessing.p```
 
 ## **Model Training**
 
