@@ -1,5 +1,7 @@
 # InterGridNet: An Electric Network Frequency Approach for Audio Source Location Classification Using Convolutional Neural Networks 
 
+Implementation of InterGridNet, a RawNet-based framework for audio source location classification using Electric Network Frequency (ENF) features, as proposed by Christos Korgialas et al. in [*InterGridNet: An Electric Network Frequency Approach for Audio Source Location Classification Using Convolutional Neural Networks*](https://www.thinkmind.org/library/SIGNAL/SIGNAL_2025/signal_2025_2_20_60016.html), presented at SIGNAL 2025.
+
 ## **Table of Contents**
 - [Introduction](#introduction)
 - [Installation](#installation)
